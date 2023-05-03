@@ -1,5 +1,8 @@
 ## Hi there  my name is **Caio** ⭐ 🤩 
 
+Welcome do my <img  alt="GitHub" height="22" wight="40"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
+
+
 <div>
  <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&show_icons=true&theme=radical" alt="Stars">&ensp;  
@@ -42,5 +45,5 @@
 <img  alt="Tp" height="30" wight="40"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
  <img alt="Node" height="30" wight="40"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img alt="Tl" height="30" wight="40"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- <img alt="figma" height="30" wight="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white/>
+ <img alt="Figma"height="30" wight="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
