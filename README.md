@@ -12,7 +12,7 @@ Welcome do my  <a href="https://github.com/DocCaio?tab=repositories"> <img  alt=
 
  ### About me :
 
-- 🔭 I’m currently working on projects and spriving my skills .
+- 🔭 I am currently working on projects and improving my skills .
 - 🌱 I’m currently learning bootstrap , react, typescript and node.js .
 - 🧠 My goal is to get a job and later became a Dev Full Stack .
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/caio-martins-2ba009207/" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
