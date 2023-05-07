@@ -3,11 +3,14 @@
 #### Welcome do my  <a href="https://github.com/DocCaio?tab=repositories"> <img  alt="GitHub" height="22" wight="40"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 
+
 <div>
- <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&show_icons=true&theme=radical" alt="Stars">&ensp;  
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&amp;langs_count=7&amp;theme=radical"  alt="Linguagens">                                                                                                                                    
+ <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
+<img height="180em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="Linguagens">&ensp;  
+                                                                                                                                   
 </div>
+
+
 
 
  ### About me :
@@ -20,9 +23,9 @@
 
 
 <div>
- <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
-<img height="180em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="Linguagens">&ensp;  
-                                                                                                                                   
+ <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&show_icons=true&theme=radical" alt="Stars">&ensp;  
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&amp;langs_count=7&amp;theme=radical"  alt="Linguagens">                                                                                                                                    
 </div>
 
 
