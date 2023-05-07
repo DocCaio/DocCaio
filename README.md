@@ -1,4 +1,6 @@
-## Hi there  my name is **Caio** ⭐ 🤩 
+<h1 align="center"> Hi there  my name is Caio⭐ 🤩</h1> 
+
+<div>
 
 #### Welcome do my  <a href="https://github.com/DocCaio?tab=repositories"> <img  alt="GitHub" height="22" wight="40"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
@@ -28,10 +30,11 @@
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&amp;langs_count=7&amp;theme=radical"  alt="Linguagens">                                                                                                                                    
 </div>
 
-
+<div align="center">
+ 
 ### Technologies Skills  ✨🚀
 
-  <div style="display:center">
+  
 <img  alt="HTML5" height="30" wight="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img  alt="CSS3" height="30" wight="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img  alt="Sass" height="30" wight="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
