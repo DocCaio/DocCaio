@@ -30,7 +30,7 @@
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&amp;langs_count=7&amp;theme=radical"  alt="Linguagens">                                                                                                                                    
 </div>
 
-<div align="center">
+<div>
  
 ### Technologies Skills  ✨🚀
 
