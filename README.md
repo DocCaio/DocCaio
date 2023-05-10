@@ -21,13 +21,15 @@
 - 🌱 I’m currently learning bootstrap , react, typescript and node.js .
 - 🧠 My goal is to get a job and later became a Dev Full Stack .
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/caio-martins-2ba009207/" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dev.to/doccaio" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://dev.to/doccaio" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://vercel.com/doccaio" target="_blank"><img  alt="Vercel" height="22" wight="40" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 
 <div>
- <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&show_icons=true&theme=radical" alt="Stars">&ensp;  
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&amp;langs_count=7&amp;theme=radical"  alt="Linguagens">                                                                                                                                    
+ <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&theme=radical" alt="Stars">&ensp;  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&theme=radical"  alt="Linguagens"> 
+ 
+ 
 </div>
 
 <div>
