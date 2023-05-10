@@ -8,7 +8,7 @@
 
 <div>
  <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
-<img height="180em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="Linguagens">&ensp;  
+<img height="180em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight" alt="Linguagens">&ensp;  
                                                                                                                                    
 </div>
 
@@ -26,13 +26,12 @@
 
 <div>
  <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&theme=radical" alt="Stars">&ensp;  
-<img height="180em" src="src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&amp;langs_count=7&amp;theme=radical" alt="Linguagens"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&theme=tokyonight" alt="Stars">&ensp;  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&theme=tokyonight" alt="Stars">
+                                                                                                                                
  
  
 </div>
-
-<div>
  
 ### Technologies Skills  ✨🚀
 
