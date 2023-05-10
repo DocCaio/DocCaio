@@ -27,7 +27,7 @@
 <div>
  <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&theme=radical" alt="Stars">&ensp;  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&theme=radical"  alt="Linguagens"> 
+<img height="180em" src="src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&amp;langs_count=7&amp;theme=radical" alt="Linguagens"> 
  
  
 </div>
