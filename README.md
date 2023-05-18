@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there  my name is Caio⭐ 🤩</h1> 
 
-<div>
+<div> 
 
 #### Welcome do my  _GitHub_ 👨‍💻
 
@@ -59,7 +59,9 @@
   <img alt="GitHub" height="30" wight="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Trello" height="30" wight="40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img atl="Mark" height="30" wight="40" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img atl="Word" height="30" wight="40" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+    <img atl="Mark" height="30" wight="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img atl="Word" height="30" wight="40" src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white"/>
+  
                                                                                                                                       
                                                                                                                                       
 </div>
