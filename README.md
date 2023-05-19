@@ -2,7 +2,7 @@
 
 <div> 
 
-#### Welcome do my  _GitHub_ 👨‍💻
+#### Welcome do my  _GitHub_ :octocat:
 
 
 <div>
@@ -54,7 +54,7 @@
  <img alt="Tl" height="30" wight="40"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img alt="Figma"height="30" wight="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
                                                                                                                                       
-   ### Others 💥💻
+   ### Others 💥👻
                                                                                                                                       
   <img alt="GitHub" height="30" wight="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Trello" height="30" wight="40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
