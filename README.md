@@ -42,11 +42,11 @@
  <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
 <img height="230em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="Linguagens">&ensp;  
                                                                                                                                    
-</div>&ensp;  
+</div>
 
 
 
-<div  align="center">&ensp;  
+<div  align="center">  
  <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&theme=radical" alt="Stars">&ensp;  
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&theme=radical" alt="Stars">
