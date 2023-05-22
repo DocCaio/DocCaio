@@ -12,7 +12,7 @@
 <a href="https://dev.to/doccaio" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://vercel.com/doccaio" target="_blank"><img  alt="Vercel" height="22" wight="40" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
  
     
-### Skills  ✨🚀 
+### Technologies Skills  ✨🚀 
 
 
   <a href="https://skillicons.dev">
