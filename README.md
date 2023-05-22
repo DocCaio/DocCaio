@@ -2,38 +2,17 @@
 
 <div> 
 
-#### Welcome do my  _GitHub_ :octocat:
+### Welcome do my  _GitHub_ :octocat:
 
-
-<div>
- <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
-<img height="180em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="Linguagens">&ensp;  
-                                                                                                                                   
-</div>
-
-
-
-
- ### About me :
 
 - 🔭 I am currently working on projects and improving my skills .
 - 🌱 I’m currently learning bootstrap , react, typescript and node.js .
 - 🧠 My goal is to get a job and later became a Dev Full Stack .
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/caio-martins-2ba009207/" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/doccaio" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://vercel.com/doccaio" target="_blank"><img  alt="Vercel" height="22" wight="40" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-
-<div>
- <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&theme=radical" alt="Stars">&ensp;  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&theme=radical" alt="Stars">
-                                                                                                                                
  
- 
-</div>
- 
-   
-### Technologies Skills  ✨🚀 
+    
+### Skills  ✨🚀 
 
 
 <img  alt="HTML5" height="30" wight="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -43,7 +22,8 @@
 <img  alt="Angular" height="30" wight="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img  alt="Java" height="30" wight="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img  alt="Git" height="30 wight="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
+                                                                                                                                
+                                                                                                                                
  
  ### Impruving Skills 🔥 💪
  
@@ -54,16 +34,47 @@
  <img alt="Tl" height="30" wight="40"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img alt="Figma"height="30" wight="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
                                                                                                                                       
-   ### Others 💥👻
+
+  ### My GitHub Stats
+ 
+ 
+ <div  align="center">
+ <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
+<img height="230em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="Linguagens">&ensp;  
+                                                                                                                                   
+</div>&ensp;  
+
+
+
+<div  align="center">&ensp;  
+ <a href="[https://github.com/DocCaio](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>  
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=DocCaio&theme=radical" alt="Stars">&ensp;  
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocCaio&layout=compact&theme=radical" alt="Stars">
+                                                                                                                                
+ 
+ 
+</div>                                                                                                                            
+       
+                                                                                                                                         
+  
+                                                                                                                                         
+ 
+                                                                                                                                         
+   ### Others informations 💥👻
                                                                                                                                       
   <img alt="GitHub" height="30" wight="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Trello" height="30" wight="40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img atl="Mark" height="30" wight="40" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
    <img atl="vs" height="30" wight="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img atl="Word" height="30" wight="40" src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white"/>
+                                                                                                                                
+                                                                                                                                         
+ 
+
+
   
                                                                                                                                       
                                                                                                                                       
-</div>
+
 
                                                                                                                                       
