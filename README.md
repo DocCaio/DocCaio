@@ -10,6 +10,8 @@
 - 🧠 My goal is to get a job and later became a Dev Full Stack .
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/caio-martins-2ba009207/" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/doccaio" target="_blank"><img  alt="Boots" height="22" wight="40" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://vercel.com/doccaio" target="_blank"><img  alt="Vercel" height="22" wight="40" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://trello.com/u/caiomartins185/boards" target="_blank"><img alt="Trello" height="22" wight="40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
+ 
  
     
 ### Technologies Skills  ✨🚀 
@@ -29,8 +31,9 @@
  <img  alt="Tp" height="30" wight="40"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
  <img alt="Node" height="30" wight="40"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
  <img atl="Word" height="30" wight="40" src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white"/>
- <img atl="Word" height="30" wight="40" src="https://github.com/DocCaio/JavaScript/blob/main/Estudos/json.svg"/> 
- <a href="https://trello.com/u/caiomartins185/boards" target="_blank"><img alt="Trello" height="30" wight="40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
+ <img atl="js" height="30" wight="40" src="https://github.com/DocCaio/JavaScript/blob/main/Estudos/json.svg"/> 
+ <img atl="js" height="30" wight="40" src= https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white/>
+
  
 
                                                                                                                                       
