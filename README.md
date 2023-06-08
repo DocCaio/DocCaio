@@ -18,7 +18,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,tailwind,angular,java,github,figma,ps,md,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,tailwind,angular,java,github,figma,ps,md,vscode,styledcomponents"/>
   </a>
 
 
