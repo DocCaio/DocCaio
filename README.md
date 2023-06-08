@@ -24,7 +24,7 @@
 
                                                                                                                                 
  
- ### Impruving Skills 🔥 💪
+ ### More Skills 🔥 💪
  
  <img  alt="Boots" height="30" wight="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img  alt="React" height="30" wight="40"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
