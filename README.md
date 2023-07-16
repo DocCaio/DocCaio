@@ -3,7 +3,12 @@
 <div> 
 
 ### Welcome do my  _GitHub_ :octocat:
-
+I'm looking for a job.
+ I am looking for a job opportunity to contribute with my experience and where I can develop my skills.
+ I have experience like IT Assistant and IT Technical Support.
+ I implement equipment installation, configurations and maintenance in hardware and software.
+ I assist users, Java script programmers and front-end developers.
+ I am interested in work that is remote or hybrid
 
 - 🔭 I am currently working on projects and improving my skills .
 - 🌱 I’m currently learning bootstrap , react, typescript and node.js .
