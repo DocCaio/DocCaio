@@ -3,7 +3,7 @@
 <div> 
 
 ### Welcome do my  _GitHub_ :octocat:
-I'm looking for a job.<br>
+
  I am looking for a job opportunity to contribute with my experience and where I can develop my skills.,<br> 
  I assist users, Java script programmers and front-end developers.<br>
 
