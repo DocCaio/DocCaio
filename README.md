@@ -46,10 +46,7 @@
 
   ### My GitHub Stats 🔥 💪
  
- 
- <div  align="center">
-<img height="230em" src="https://streak-stats.demolab.com/?user=Doccaio&theme=radical" alt="Docccaio" />                                                                                                                                    
-</div>
+
 
 
 
