@@ -63,10 +63,15 @@
   
  
    ## How to reach me 📫:
+   <div>
    <a href="https://www.linkedin.com/in/caio-martins-2ba009207/" target="_blank"><img  alt="Boots" height="25" wight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/doccaio" target="_blank"><img  alt="Boots" height="25" wight="40" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://vercel.com/doccaio" target="_blank"><img  alt="Vercel" height="25" wight="40" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://trello.com/u/caiomartins185/boards" target="_blank"><img alt="Trello" height="25" wight="40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
+<a href="[https://cursos.alura.com.br/vitrinedev/sucodelarangela](https://cursos.alura.com.br/vitrinedev/CaioMiB)" target="_blank"><img  height="25" wight="40"  src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev na Alura"></a>
+<a href="portfolio-page-flax.vercel.app" target="_blank"><img  height="25" wight="40"  src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu portfólio pessoal"></a>
+   </div>
+
                                                                                                                                          
  
                                                                                                                                          
