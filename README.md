@@ -69,7 +69,7 @@
 <a href="https://vercel.com/doccaio" target="_blank"><img  alt="Vercel" height="25" wight="40" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://trello.com/u/caiomartins185/boards" target="_blank"><img alt="Trello" height="25" wight="40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
 <a href="[https://cursos.alura.com.br/vitrinedev/sucodelarangela](https://cursos.alura.com.br/vitrinedev/CaioMiB)" target="_blank"><img  height="25" wight="40"  src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev na Alura"></a>
-<a href="https://portfolio-page-flax.vercel.app/" target="_blank"><img  height="25" wight="40"  src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu portfólio pessoal"></a>
+<a href="#" target="_blank"><img  height="25" wight="40"  src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu portfólio pessoal"></a>
    </div>
 
                                                                                                                                          
