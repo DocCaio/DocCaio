@@ -8,7 +8,7 @@
  I assist users, Java script programmers and front-end developers.<br>
 
 - 🔭 I am currently working on projects and improving my skills .
-- 🌱 I’m currently learning bootstrap , react, typescript and node.js .
+- 🌱 I’m currently learning next , react, typescript and node.js .
 - 🧠 My goal is to get a job and later became a Dev Full Stack .
 
  
