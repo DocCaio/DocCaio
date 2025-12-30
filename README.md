@@ -1,15 +1,16 @@
-<h1 align="center"> Hi there  my name is Caio⭐ 🤩</h1> 
 
-<div> 
 
-### Welcome to my  _GitHub_  <img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+<div>
 
- I am looking for a job opportunity to contribute with my experience and where I can develop my skills.,<br> 
- I assist users, Java script programmers and front-end developers.<br>
+### Welcome to my GitHub  <img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
 
-- 🔭 I am currently working on projects and improving my skills .
-- 🌱 I’m currently learning next , react, typescript and node.js .
-- 🧠 My goal is to get a job and later became a Dev Full Stack .
+ • 💻 **Front-end Developer** <br/>
+ • 🌱  Currently improving my skills in **Java** and **Spring Boot** (Back-end) <br/>
+ • 🧠 Learning about **SEO** and **Databases** <br/>
+ • ❤️ Always looking for new projects and **open-source** opportunities
+
+
+</div>
 
  
  
