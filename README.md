@@ -6,7 +6,7 @@
 
  • 💻 **Full Stack Developer** <br/>
  • 🌱  Currently improving my skills in **Java** and **Spring Boot** (Back-end) <br/>
- • 🧠 Learning about **SEO** and **Databases** <br/>
+ • 🧠 Learning about **GoLand** and **kotlin** <br/>
  • ❤️ Always looking for new projects and **open-source** opportunities
 
 
